@@ -66,6 +66,3 @@ git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAV
 - [Lec 4: Implementation Problems](./Step%2009%20:%20Stack%20and%20Queues%20[Learning,%20Pre-In-Post-fix,%20Monotonic%20Stack,%20Implementation]/Lec%204:%20Implementation%20Problems/)
 
 
-## 🔗 **Let's Connect** 🤝
-
-[![LinkedIn](www.linkedin.com/in/abhishek-kumar-907abb343)

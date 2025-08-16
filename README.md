@@ -6,15 +6,6 @@
 ### [takeUForward Youtube Channel Link](https://www.youtube.com/@takeUforward)
 
 
-## 🔥 **Clone this Repository** 💫
-
-You need to write the following commands on the terminal screen(in vscode) to clone this repository.
-
-```bash
-git clone https://github.com/Bharat2044/Striver-A2Z-DSA-Sheet-Solution-using-JAVA.git
-```
-
-
 ## 👨‍💻 **Contents** 👀
 💻 [**Step 01 : Learn the basics**](./Step%2001%20:%20Learn%20the%20basics/)
 - [Lec 1: Things to Know in C++/Java/Python or any language](./Step%2001%20:%20Learn%20the%20basics/Lec%201:%20Things%20to%20Know%20in%20Java%20or%20any%20language/)
